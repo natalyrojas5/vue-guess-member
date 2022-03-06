@@ -1,4 +1,6 @@
-# Vue guess member
+# Guess the member
+
+- https://vue-guess-member-nat.netlify.app/
 
 ## Project setup
 
